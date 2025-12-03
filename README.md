@@ -1,1 +1,1 @@
-# Nail-disease-detection-using-Machin-learning-Deep-learning-and-OpenCV
+# Nail-disease-detection-using-Machine-learning-Deep-learning-and-OpenCV
